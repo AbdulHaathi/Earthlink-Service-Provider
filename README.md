@@ -22,18 +22,19 @@ This is a Enterprise Network Architecture  of Service Provider Network
 7. Access-list
 
 8. WLAN (WLC)
-   8.1 LAPT 
+
+    8.1 LAPT 
    8.2 WLAN Profile
    8.3 AP Groups
    8.4 WLAN Security
 
-9. Vlan concept 
+10. Vlan concept 
    9.1 PVST (Root Bridge)
    9.2 Port fast
    9.3 BPDU Guard
    9.4 Voice vlan
 
-10. Servers 
+11. Servers 
     10.1  AAA
     10.2 HTTP
     10.3 DNS
@@ -43,7 +44,7 @@ This is a Enterprise Network Architecture  of Service Provider Network
     10.7 NTP
     10.8 FTP
 
-11. Routing
+12. Routing
     11.1 BGP
     11.2 OSPF
     11.3 Inter Vlan Routing
